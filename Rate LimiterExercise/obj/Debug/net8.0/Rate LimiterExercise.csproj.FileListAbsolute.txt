@@ -1,0 +1,32 @@
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\appsettings.json
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\Rate LimiterExercise.exe
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\Rate LimiterExercise.deps.json
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\Rate LimiterExercise.runtimeconfig.json
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\Rate LimiterExercise.dll
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\Rate LimiterExercise.pdb
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.csproj.AssemblyReference.cache
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.AssemblyInfo.cs
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\staticwebassets\msbuild.Rate LimiterExercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\staticwebassets\msbuild.build.Rate LimiterExercise.props
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Rate LimiterExercise.props
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Rate LimiterExercise.props
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\scopedcss\bundle\Rate LimiterExercise.styles.css
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate Lim.F046F1B5.Up2Date
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.dll
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\refint\Rate LimiterExercise.dll
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.pdb
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\Rate LimiterExercise.genruntimeconfig.cache
+C:\Users\louag\source\repos\Rate LimiterExercise\Rate LimiterExercise\obj\Debug\net8.0\ref\Rate LimiterExercise.dll

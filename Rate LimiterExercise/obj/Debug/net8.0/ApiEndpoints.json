@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Rate_LimiterExercise.Controllers.DummyController",
+    "Method": "AllowRequest",
+    "RelativePath": "api/Dummy/AllowRequest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rate_LimiterExercise.Controllers.DummyController",
+    "Method": "GetRequests",
+    "RelativePath": "api/Dummy/GetRequests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
